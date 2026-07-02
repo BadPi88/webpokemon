@@ -1,0 +1,8 @@
+.next/
+node_modules/
+*.tsbuildinfo
+data/orders.json
+.env
+.env.local
+.env.*.local
+coverage/
